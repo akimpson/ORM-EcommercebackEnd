@@ -30,15 +30,15 @@
 
 - Lastly, run npm start to begin the application.
 
-- Open Insomnia and go to http://localhost:3005 to begin using the api endpoints.
+- Open Insomnia and go to http://localhost:2001 to begin using the api endpoints.
 
 ## Screenshot
 
-[ORM-EcommercebakEnd Screenshot](https://)
+[ORM-EcommercebackEnd Screenshot](https://)
 
 ## Demo
 
-[ORM-EcommercebakEnd Demo](https://)
+[ORM-EcommercebackEnd Demo](https://)
 
 ## Credits
 
