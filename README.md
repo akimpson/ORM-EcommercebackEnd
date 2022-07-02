@@ -2,9 +2,18 @@
 
 ## Description
 
-- This back-end application for an e-commerce website uses an Express.js API and then configures it to use Sequalize which will interact with the MySQL database.
+- This back-end application for an e-commerce website uses an Express.js API.
 
-- This application allows developers to generate a webpage that displays a basic information which allows the user to have quick access to their emails and GitHub profile.
+- Using Sequalize you are then able to connect to the MySQL database.
+
+- Entering the schema and seed commands a development database is created and seeded with test data.
+
+- When the command is entered to invoke the application the server is started and the Sequelize models are synced to the MySQL database.
+
+- Open API GET routes in Insomnia for categories, products, or tags
+  and the data for each route is displayed in a formatted JSON.
+
+- Once the API POST, PUT, and DELETE routes are tested in Insomnia you can successfully create, update, and delete data in the database.
 
 ## Technology
 
